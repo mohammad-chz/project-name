@@ -38,7 +38,6 @@ const UserList = () => {
                 <Typography color="textSecondary">
                   Website: {user.website}
                 </Typography>
-                {/* You can add more user data as needed */}
               </CardContent>
             </Card>
           </Grid>
